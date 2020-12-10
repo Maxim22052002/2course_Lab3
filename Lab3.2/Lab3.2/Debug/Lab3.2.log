@@ -1,0 +1,8 @@
+﻿  Lab3.2.cpp
+C:\Users\Максим\source\repos\Lab3.2\Lab3.2\PassengerPlane.h(3,30): warning C4584: PassengerPlane: базовый класс "ILoadable" уже является базовым классом для "Plane"
+C:\Users\Максим\source\repos\Lab3.2\Lab3.2\ILoadable.h(2): message : см. объявление "ILoadable"
+C:\Users\Максим\source\repos\Lab3.2\Lab3.2\Plane.h(4): message : см. объявление "Plane"
+C:\Users\Максим\source\repos\Lab3.2\Lab3.2\CargoPlane.h(3,26): warning C4584: CargoPlane: базовый класс "ILoadable" уже является базовым классом для "Plane"
+C:\Users\Максим\source\repos\Lab3.2\Lab3.2\ILoadable.h(2): message : см. объявление "ILoadable"
+C:\Users\Максим\source\repos\Lab3.2\Lab3.2\Plane.h(4): message : см. объявление "Plane"
+  Lab3.2.vcxproj -> C:\Users\Максим\source\repos\Lab3.2\Debug\Lab3.2.exe
